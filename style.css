@@ -1,0 +1,54 @@
+.title{
+    width: 115px;
+    height: 24px;
+    top: 24px;
+    left: 156px;
+}
+.page-nav{
+    width: Hug (261px)px;
+height: Hug (24px)px;
+top: 24px;
+left: 347px;
+gap: 40px;
+opacity: 0px;
+size: 16px;
+line-height: 24px;
+color:
+#2E2F42;
+}
+.page-title{
+    color: 
+    #FFFFFF;
+    width: 496px;
+    height: 120px;
+    top:260px;
+    left:472px;
+    size:56px;
+    line-height: 60px;
+}
+
+h2{
+    color: #4D5AE5;
+}
+li{
+    color:#2E2F42;
+    size: 16px;
+    line-height: 24px;
+    width: 48px;
+}
+address{
+    width: 153px;
+    height: 24px;
+    top:24px;
+    left:940px;
+    color:#434455;
+}
+.top.line{
+    width: 1440px;
+    height: 72px;
+    border: 1px;
+    background-color: #E7E9FC;
+}
+body{
+    font-family: "Roboto", sans-serif;
+}
