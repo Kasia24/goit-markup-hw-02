@@ -1,8 +1,18 @@
 .title{
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
     width: 115px;
     height: 24px;
     top: 24px;
     left: 156px;
+}
+span{
+    color: #2e2f42
 }
 .page-nav{
     width: Hug (261px)px;
@@ -17,8 +27,7 @@ color:
 #2E2F42;
 }
 .page-title{
-    color: 
-    #FFFFFF;
+    color: #FFFFFF;
     width: 496px;
     height: 120px;
     top:260px;
@@ -49,7 +58,7 @@ address{
     border: 1px;
     background-color: #E7E9FC;
 }
-.body{
+body{
     font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #FFFFFF;
