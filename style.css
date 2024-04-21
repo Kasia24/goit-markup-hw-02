@@ -21,9 +21,9 @@ span{
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-li:hover{color:#404bbf;
+.description:hover{color:#404bbf;
 }
-li:active{color:#404bbf;
+.description:active{color:#404bbf;
 }
 .page-title{
     color: #FFFFFF;
