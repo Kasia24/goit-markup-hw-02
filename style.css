@@ -14,7 +14,7 @@
 span{
     color: #2e2f42
 }
-li{
+.description{
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -45,12 +45,9 @@ li{
     width: 48px;
 }
 address{
-    width: 153px;
-    height: 24px;
-    top:24px;
-    left:940px;
-    color:#434455;
+    font-style: normal;
 }
+
 .top.line{
     width: 1440px;
     height: 72px;
