@@ -57,3 +57,6 @@ address{
 .wrapper{
     display: flex;
 }
+header{
+    color: #2E2F42;
+}
