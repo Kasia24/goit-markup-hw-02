@@ -60,11 +60,11 @@ header{
     background-color: #2e2f42;
     color: #F4F4FD;
 }
-p.text{
+text{
     line-height: 1.5;
     color:#F4F4FD;
     letter-spacing: 0.02em;
 }
-.span-class{
+.footer-style > .span-color{
     color:#f4f4fd
 }
