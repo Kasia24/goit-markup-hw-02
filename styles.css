@@ -53,17 +53,15 @@ address{
 .wrapper{
     display: flex;
 }
-header{
-    color: #2E2F42;
-}
+
 .footer-style{
     background-color: #2e2f42;
 }
-.footer-style > .text{
+.text{
     line-height: 1.5;
     color:#F4F4FD;
     letter-spacing: 0.02em;
 }
-.style-color{
+.style-color >.footer-style{
     color:#f4f4fd
 }
