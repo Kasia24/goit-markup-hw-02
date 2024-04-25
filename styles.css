@@ -34,6 +34,15 @@ button:hover{
 button:active{
     background-color:  #404BBF;
 }
+.link-first{
+    color: #2e2f42;
+}
+.link-first:hover{
+    color: #404bbf;
+}
+.link-first:active{
+    color: #404bbf;
+}
 .page-nav{
     font-weight: 500;
     font-size: 16px;
