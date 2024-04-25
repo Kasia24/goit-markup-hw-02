@@ -34,8 +34,6 @@ button:hover{
 button:active{
     background-color:  #404BBF;
 }
-
-
 .page-nav{
     font-weight: 500;
     font-size: 16px;
@@ -52,7 +50,6 @@ li{
 address{
     font-style: normal;
 }
-
 .top.line{
     width: 1440px;
     height: 72px;
@@ -62,7 +59,6 @@ address{
 .wrapper{
     display: flex;
 }
-
 .footer-style{
     background-color: #2e2f42;
 }
