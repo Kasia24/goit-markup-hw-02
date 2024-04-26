@@ -31,13 +31,19 @@
 button:hover, button:active{
     background-color:  #404BBF;
 }
-.link-first{
+.link-first, .link-second, .link-third{
     color: #2e2f42;
 }
-.link-first:hover{
+.link-first:hover, .link-first:active, .link-second:hover, .link-second:active, .link-third:hover, .link-third:active{
     color: #404bbf;
 }
-.link-first:active{
+.link-mail{
+    font-size: 16px;
+    line-height: 1,5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.link-mail:hover, .link.mail:active{
     color: #404bbf;
 }
 .page-nav{
