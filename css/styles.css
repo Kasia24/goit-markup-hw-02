@@ -24,9 +24,6 @@
 button:hover, button:active{
     background-color:  #404BBF;
 }
-.link-first{
-    color: #2e2f42;
-}
 .link-first:hover, .link-first:active{
     color: #404bbf;
 }
@@ -45,7 +42,7 @@ button:hover, button:active{
 .link-mail:hover, .link.mail:active{
     color: #404bbf;
 }
-.page-nav>.link-first{
+.link-first{
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
