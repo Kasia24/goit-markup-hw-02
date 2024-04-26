@@ -24,10 +24,7 @@
 button:hover, button:active{
     background-color:  #404BBF;
 }
-.page-nav .link-first:hover{
-    color: #404bbf;
-}
-.page-nav .link-first:active{
+.page-nav .link-first:hover, .page-nav .link-first:active{
     color: #404bbf;
 }
 .link-mail{
@@ -42,11 +39,8 @@ button:hover, button:active{
     letter-spacing: 0.02em;
     color: #434455;
 }
-.address-style .link-mail:hover{
+.address-style .link-mail:hover, .address-style .link.mail:active{
     color:  #404bbf;
-}
-.address-style .link.mail:active{
-    color: #404bbf;
 }
 .link-first{
     font-weight: 500;
