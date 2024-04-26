@@ -27,7 +27,7 @@ button:hover, button:active{
 .link-first{
     color: #2e2f42;
 }
-.link-first:hover, .link-first:active, .link-second:hover, .link-second:active, .link-third:hover, .link-third:active{
+.link-first:hover, .link-first:active{
     color: #404bbf;
 }
 .link-mail{
