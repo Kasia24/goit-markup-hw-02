@@ -24,7 +24,7 @@
 button:hover, button:active{
     background-color:  #404BBF;
 }
-.link-first, .link-second, .link-third{
+.link-first{
     color: #2e2f42;
 }
 .link-first:hover, .link-first:active, .link-second:hover, .link-second:active, .link-third:hover, .link-third:active{
