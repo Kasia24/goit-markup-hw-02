@@ -24,7 +24,10 @@
 button:hover, button:active{
     background-color:  #404BBF;
 }
-.link-first:hover, .link-first:active{
+.link-first:hover{
+    color: #404bbf;
+}
+.link-first:active{
     color: #404bbf;
 }
 .link-mail{
@@ -39,7 +42,10 @@ button:hover, button:active{
     letter-spacing: 0.02em;
     color: #434455;
 }
-.link-mail:hover, .link.mail:active{
+.link-mail:hover{
+    color:  #404bbf;
+}
+.link.mail:active{
     color: #404bbf;
 }
 .link-first{
