@@ -24,10 +24,10 @@
 button:hover, button:active{
     background-color:  #404BBF;
 }
-.link-first:hover{
+.page-nav .link-first:hover{
     color: #404bbf;
 }
-.link-first:active{
+.page-nav .link-first:active{
     color: #404bbf;
 }
 .link-mail{
