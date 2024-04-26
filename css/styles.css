@@ -24,7 +24,7 @@
 button:hover, button:active{
     background-color:  #404BBF;
 }
-.page-nav .link-first:hover, .page-nav .link-first:active{
+.page-nav .link:hover, .page-nav .link:active{
     color: #404bbf;
 }
 .link-mail{
@@ -42,7 +42,7 @@ button:hover, button:active{
 .address-style .link-mail:hover, .address-style .link.mail:active{
     color:  #404bbf;
 }
-.link-first{
+.link{
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
