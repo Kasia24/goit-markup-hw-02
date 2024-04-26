@@ -37,6 +37,15 @@ button:hover, button:active{
 .link-first:hover, .link-first:active, .link-second:hover, .link-second:active, .link-third:hover, .link-third:active{
     color: #404bbf;
 }
+.link-mail{
+    font-size: 16px;
+    line-height: 1,5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.link-mail:hover, .link.mail:active{
+    color: #404bbf;
+}
 .page-nav{
     font-weight: 500;
     font-size: 16px;
