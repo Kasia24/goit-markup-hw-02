@@ -36,12 +36,6 @@ button:hover, button:active{
     letter-spacing: 0.02em;
     color: #434455;
 }
-.link-tel{
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
 .address-style .link-mail:hover, .address-style .link.mail:active{
     color:  #404bbf;
 }
