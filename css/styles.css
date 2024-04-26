@@ -42,10 +42,10 @@ button:hover, button:active{
     letter-spacing: 0.02em;
     color: #434455;
 }
-.link-mail:hover{
+.address-style .link-mail:hover{
     color:  #404bbf;
 }
-.link.mail:active{
+.address-style .link.mail:active{
     color: #404bbf;
 }
 .link-first{
@@ -55,7 +55,7 @@ button:hover, button:active{
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.page-title{
+.section-one .page-title{
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
