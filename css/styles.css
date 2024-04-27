@@ -21,18 +21,17 @@
     color:  #ffffff;
     cursor: pointer;
 }
-.button-style:hover{
-    background-color: #404BBF;
-} 
-    
-.button-style:active{
-    background-color: #404BBF;
-}
 .page.nav .link:hover{
     color: #404bbf;
 }
 .page.nav .link:active{
     color: #404bbf;
+}
+.button-style:hover{
+    background-color: #404BBF;
+} 
+.button-style:active{
+    background-color: #404BBF;
 }
 .link-mail{
     font-size: 16px;
