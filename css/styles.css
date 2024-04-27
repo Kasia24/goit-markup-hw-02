@@ -46,7 +46,7 @@ button:hover, button:active{
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.section-one h2{
+.section-one > .page.title{
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
