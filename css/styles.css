@@ -28,10 +28,10 @@
 .section-one .button-style:active{
     background-color: #404BBF;
 }
-.page-nav .link:hover {
+.page-nav li:hover {
     color: #404bbf;
 }
-.page-nav .link:active{
+.page-nav li:active{
     color: #404bbf;
 }
 .link-mail{
