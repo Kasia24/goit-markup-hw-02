@@ -36,7 +36,7 @@
     letter-spacing: 0.02em;
     color: #434455;
 }
-.address-style .link-mail:hover, .address-style .link.mail:focus{
+.address-style.link-mail:hover, .address-style.link.mail:focus{
     color:  #404bbf;
 }
 .link{
