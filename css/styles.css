@@ -25,13 +25,13 @@
     background-color: #404BBF;
 } 
     
-.section-one .button-style:active{
+.button-style:active{
     background-color: #404BBF;
 }
-.page-nav .link:hover {
+.links:hover{
     color: #404bbf;
 }
-.page-nav .link:active{
+.links:active{
     color: #404bbf;
 }
 .link-mail{
