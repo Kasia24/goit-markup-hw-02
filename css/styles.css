@@ -21,9 +21,6 @@
     color:  #ffffff;
     cursor: pointer;
 }
-.button-style:hover {
-    background-color:  #404BBF;
-}
 .button-style:focus{
     background-color:  #404BBF;
 }
