@@ -21,7 +21,7 @@
     color:  #ffffff;
     cursor: pointer;
 }
-.button-style:focus{
+.button-style:hover, .button-style:active{
     background-color:  #404BBF;
 }
 .page-nav .link:hover {
@@ -36,7 +36,7 @@
     letter-spacing: 0.02em;
     color: #434455;
 }
-.address-style.link-mail:hover, .address-style.link.mail:focus{
+.link-mail:hover, .link.mail:focus{
     color:  #404bbf;
 }
 .link{
