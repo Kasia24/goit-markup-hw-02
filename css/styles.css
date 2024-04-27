@@ -21,7 +21,10 @@
     color:  #ffffff;
     cursor: pointer;
 }
-.button-style:hover, .button-style:active{
+.button-style:hover {
+    background-color:  #404BBF;
+}
+.button-style:active{
     background-color:  #404BBF;
 }
 .page-nav .link:hover {
