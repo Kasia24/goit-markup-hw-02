@@ -21,10 +21,10 @@
     color:  #ffffff;
     cursor: pointer;
 }
-.page.nav .link:hover{
+.page.nav.link:hover{
     color: #404bbf;
 }
-.page.nav .link:active{
+.page.nav.link:active{
     color: #404bbf;
 }
 .button-style:hover{
