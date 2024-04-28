@@ -24,7 +24,7 @@
 .button-style:hover{
     background-color: #404BBF;
 } 
-.button-style:active{
+.button-style:focus{
     background-color: #404BBF;
 }
 .link-mail{
@@ -36,7 +36,7 @@
 .link-mail:hover{
     color: #404bbf;
 }
-.link.mail:active{
+.link.mail:focus{
     color: #404bbf;
 }
 .page-nav{
@@ -49,7 +49,7 @@
 .page-nav .link:hover{
     color: #404bbf;
 }
-.page-nav .link:active{
+.page-nav .link:focus{
     color: #404bbf;
 }
 .page-title{
