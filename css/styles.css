@@ -21,12 +21,6 @@
     color:  #ffffff;
     cursor: pointer;
 }
-.link:hover{
-    color: #404bbf;
-}
-.link:active{
-    color: #404bbf;
-}
 .button-style:hover{
     background-color: #404BBF;
 } 
@@ -48,6 +42,12 @@
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
+}
+.link:hover{
+    color: #404bbf;
+}
+.link:active{
+    color: #404bbf;
 }
 .page-title{
     font-size: 56px;
